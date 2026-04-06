@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Building a Neural Network from Scratch",
+    "excerpt": "A deep dive into implementing forward propagation, backpropagation, and gradient descent without any ML frameworks.",
+    "date": "Coming Soon"
+  },
+  {
+    "title": "Understanding Transformer Architecture",
+    "excerpt": "Breaking down self-attention, multi-head attention, and positional encoding — with interactive visualizations.",
+    "date": "Coming Soon"
+  },
+  {
+    "title": "Fine-Tuning LLMs with LoRA",
+    "excerpt": "How to efficiently fine-tune large language models using Low-Rank Adaptation for domain-specific tasks.",
+    "date": "Coming Soon"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Neural Network Builder",
+    "repo": "ann-from-scratch",
+    "description": "Interactive Neural Network Builder — Build and train ANN from scratch with visual interface.",
+    "tech": ["Python", "NumPy", "Matplotlib"],
+    "icon": "🧠",
+    "url": "https://github.com/ZeeetOne/ann-from-scratch"
+  },
+  {
+    "title": "Transformer Visualizer",
+    "repo": "transformer-from-scratch",
+    "description": "Interactive visualization platform for learning transformer architecture from scratch.",
+    "tech": ["TypeScript", "D3.js", "WebGL"],
+    "icon": "⚡",
+    "url": "https://github.com/ZeeetOne/transformer-from-scratch"
+  },
+  {
+    "title": "FotMob Scraper",
+    "repo": "fotmob-scraper",
+    "description": "A Python web scraper for extracting Premier League match data and statistics from FotMob.",
+    "tech": ["Python", "BeautifulSoup", "Pandas"],
+    "icon": "⚽",
+    "url": "https://github.com/ZeeetOne/fotmob-scraper"
+  },
+  {
+    "title": "PL Analytics Dashboard",
+    "repo": "pl-team-analysis",
+    "description": "Interactive Premier League analytics dashboard built with Streamlit for team performance analysis.",
+    "tech": ["Python", "Streamlit", "Plotly"],
+    "icon": "📊",
+    "url": "https://github.com/ZeeetOne/pl-team-analysis"
+  },
+  {
+    "title": "BioInstruct Fine-Tuning",
+    "repo": "bioinstruct-finetuning-experiment",
+    "description": "LoRA fine-tuning experiment: Llama-3.2-1B-Instruct with BioInstruct dataset for biomedical NLP.",
+    "tech": ["Python", "PyTorch", "LoRA"],
+    "icon": "🧬",
+    "url": "https://github.com/ZeeetOne/bioinstruct-finetuning-experiment"
+  },
+  {
+    "title": "LLM Inference API",
+    "repo": "llm-inference-deployment",
+    "description": "Deploying fine-tuned LLMs locally with FastAPI using LLaMA 3.2-1B for biomedical domain.",
+    "tech": ["Python", "FastAPI", "Transformers"],
+    "icon": "🚀",
+    "url": "https://github.com/ZeeetOne/llm-inference-deployment"
+  }
+]
